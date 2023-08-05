@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "植物大战僵尸", "植物大战僵尸\植物大战僵尸.vcxproj", "{F6FA169C-055A-4C75-87ED-4E1CC51EB6A5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup植物大战僵尸", "Setup植物大战僵尸\Setup植物大战僵尸.vdproj", "{DF131EA9-1E87-4E33-8D59-5F99F92D3291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6FA169C-055A-4C75-87ED-4E1CC51EB6A5}.Debug|x64.ActiveCfg = Debug|x64
+		{F6FA169C-055A-4C75-87ED-4E1CC51EB6A5}.Debug|x64.Build.0 = Debug|x64
+		{F6FA169C-055A-4C75-87ED-4E1CC51EB6A5}.Debug|x86.ActiveCfg = Debug|Win32
+		{F6FA169C-055A-4C75-87ED-4E1CC51EB6A5}.Debug|x86.Build.0 = Debug|Win32
+		{F6FA169C-055A-4C75-87ED-4E1CC51EB6A5}.Release|x64.ActiveCfg = Release|x64
+		{F6FA169C-055A-4C75-87ED-4E1CC51EB6A5}.Release|x64.Build.0 = Release|x64
+		{F6FA169C-055A-4C75-87ED-4E1CC51EB6A5}.Release|x86.ActiveCfg = Release|Win32
+		{F6FA169C-055A-4C75-87ED-4E1CC51EB6A5}.Release|x86.Build.0 = Release|Win32
+		{DF131EA9-1E87-4E33-8D59-5F99F92D3291}.Debug|x64.ActiveCfg = Debug
+		{DF131EA9-1E87-4E33-8D59-5F99F92D3291}.Debug|x86.ActiveCfg = Debug
+		{DF131EA9-1E87-4E33-8D59-5F99F92D3291}.Release|x64.ActiveCfg = Release
+		{DF131EA9-1E87-4E33-8D59-5F99F92D3291}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65A8A4F3-C0F7-46E1-9ACD-4FF975FF64EB}
+	EndGlobalSection
+EndGlobal
